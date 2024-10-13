@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 # Ignore .env files in all subdirectories
-**/.env
+# **/.env
 **/node_modules/
 # Editor directories and files
 .vscode/*
